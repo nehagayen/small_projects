@@ -1,26 +1,4 @@
-"""
-Step 3: Function to Calculate Grades
-Logic:
-For each student, calculate average marks
-Apply grading logic:
->=90: A
->=75: B
->=50: C
-else: Fail
-🔹 Step 4: Find Top Scorer
-Logic:
-Use a loop to find the student with the highest average
-Track max average and corresponding name
-🔹 Step 5: Remove Duplicate Names
-Logic
-Use a set to ensure all names are unique
-You can check using:
-Step 6: Palindrome Name Checker
-Logic:
-For each student name: """
-
-import math
-
+#student information manager
 students = {}
 
 def student_information():
