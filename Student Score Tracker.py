@@ -1,4 +1,4 @@
-"""Q4. Student Score Tracker (Dictionary + Function)
+""" Student Score Tracker (Dictionary + Function)
 Task:
 Ask the user to enter names and marks of 3 students (name: mark).
 Store in a dictionary.
